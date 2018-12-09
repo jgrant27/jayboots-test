@@ -1,5 +1,9 @@
 <meta charset="utf-8"/>
 
+```
+wasm-pack build ; cd www ; npm run start
+```
+
 # 🦀🕸️ `wasm-pack-template`
 
 A template for kick starting a Rust and WebAssembly project using
